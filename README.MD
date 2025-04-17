@@ -14,7 +14,7 @@ HTML côté serveur. Pour cela, nous utiliserons le moteur de templates Thymelea
 
 <h3>- Creation de l'interface ProductRepository </h3>
 <p>Pour travailler avec Spring Data JPA, l’interface ProductRepository doit hériter de l’interface générique JpaRepository</p>
-<img src="captures/repository.png"> 
+<img src="captures/ProduitRepository.png"> 
 
 <h3>- Tester L'application</h3>
 
