@@ -9,6 +9,7 @@ import lombok.*;
 @NoArgsConstructor @AllArgsConstructor @Getter
 @Setter @ToString @Builder
 public class Product {
+
     @Id @GeneratedValue
     private Long id;
     private String name;
